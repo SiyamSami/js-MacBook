@@ -1,0 +1,10 @@
+h5{
+    display: inline;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.selected{
+     border: 3px solid rgb(117, 4, 4);
+}
